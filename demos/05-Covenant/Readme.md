@@ -1,3 +1,5 @@
+*NOTE: THIS DEMO DOESN'T WORK! BECAUSE F$$$ THE DEMO GODS*
+
 # Overview
 
 This demo is complicated but demonstrates the depth of tradecraft possible with Donut in combination with other tools and frameworks. The steps we will follow are:
