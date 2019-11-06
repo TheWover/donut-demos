@@ -1,4 +1,4 @@
-*NOTE: THIS DEMO DOESN'T WORK! BECAUSE F$$$ THE DEMO GODS*
+*NOTE: THIS DEMO DOESN'T WORK! BECAUSE F$$$ THE DEMO GODS. All of my shit (and rasta's) works fine. Both the other shit (made by other people) doesn't. Basically TikiTorch and Donut are fine, but I don't have any good stagers to exec Assemblies or shellcode from a macro. Could probably do it in Excel4.0 but meh. Whatever, I may fix this later but don't use it for now.*
 
 # Overview
 
